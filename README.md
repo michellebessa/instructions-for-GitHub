@@ -1,26 +1,26 @@
 # Instructions-for-GitHub MDC-20
 
-* For initial commits only *
+<p>* For initial commits only *</p>
 
-$ git remote add new-origin ---link of github repository---
-$ git add .
-$ git commit -m "comment"
-$ git push new-origin 
-
--------------------
-
-* For updates *
-
-$ git add .
-$ git commit -m "comment"
-$ git push new-origin 
+<p>$ git remote add new-origin ---link of github repository---</p>
+<p>$ git add .</p>
+<p>$ git commit -m "comment"</p>
+<p>$ git push new-origin </p>
 
 -------------------
 
-* Additional commands *
+<p>* For updates *</p>
 
-$ git status //To display the current status of the repository you are working on
-$ git remote -v //To display lists of origins
+<p> $ git add . </p>
+<p> $ git commit -m "comment" </p>
+<p> $ git push new-origin </p>
+
+-------------------
+
+<p>* Additional commands *</p>
+
+<p> $ git status //To display the current status of the repository you are working on </p>
+<p> $ git remote -v //To display lists of origins </p>
 
 -------------------
 
