@@ -1,4 +1,4 @@
-#### Instructions-for-GitHub MDC-20
+# Instructions-for-GitHub MDC-20
 
 * For initial commits only *
 
